@@ -6,7 +6,7 @@ This project fetches customer data from Stripe, including subscription details a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/stripe-bot.git
+    git clone https://github.com/lucasudar/stripe-data-scraper
     cd stripe-bot
     ```
 
