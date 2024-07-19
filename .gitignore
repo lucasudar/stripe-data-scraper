@@ -1,0 +1,10 @@
+# Ignore .env file containing credentials, API keys, tokens, passwords, etc.
+.env
+
+#files
+one_time_customers.csv
+subscription_customers.csv
+all_payments.csv
+
+# environment folder
+venv
